@@ -24,7 +24,7 @@
 
 ## Experience
 
-#### Data Scientist @ Pacefactory (August 2021-March 2022)
+#### Data Scientist, Pacefactory (August 2021-March 2022)
 - Developed a Jupyter dashboard for exploratory data analysis of object detection and tracking data; presented data insights that highlighted the key features impacting decision tree model performance.
 - Built a machine learning Flask app to detect and visualize high-traffic zones based live camera data using cluster analysis; the clustering algorithm was deployed to the production environment to assist users during software configuration
   
@@ -33,7 +33,7 @@
 - Provided technical guidance to students learning pandas, numpy, matplotlib, and pattern matching
 - Created a reusable JupyterHub & R FAQ for off-hour student support
   
-#### Quantitative Analyst (2016-2017)
+#### Quantitative Analyst, University of Toronto Mississauga (2016-2017)
 - Performed literature research to collect and analyze effect size distribution in evolutionary ecology literature
 
 ## Projects
@@ -42,7 +42,7 @@ This on-chain analysis offers an overview of the volume and cost associated with
 
 
 ## Certifications
-#### [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ6FZXCXQKM3) (October 2023)
+[**IBM Data Science Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ6FZXCXQKM3) **(October 2023)**
 - Skills: Python, SQL, Machine Learning, Data Mining, Jupyter 
 
 
