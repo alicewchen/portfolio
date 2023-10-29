@@ -1,7 +1,7 @@
 title: Alice Chen
 logo: /assets/img/logo.png
 description: <a href=https://github.com/alicewchen>GitHub</a> | <a href=https://www.linkedin.com/in/alicewchen/>LinkedIn</a>
-description: <h2>Technical skills</h2><li>Python, SQL, R, Bash</li><li>scikit-learn, seaborn, plotly</li><li>Jupyter, Dash, Flask</li><li>MongoDB, Google BigQuery, SQLite</li><li>VSCode, Jupyterlab, Google Colab</li>
+description: <h2>Technical skills</h2><li>Python, SQL, R, Bash</li><li>numpy, pandas, seaborn, plotly, scikit-learn</li><li>Jupyter, Dash, Flask</li><li>MongoDB, Google BigQuery, SQLite</li><li>VSCode, Jupyterlab, Google Colab</li>
 
 #show_downloads: true
 #google_analytics:
