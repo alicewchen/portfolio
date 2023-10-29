@@ -6,6 +6,7 @@
 - IDE: VSCode, Jupyterlab, Google Colab
 - Machine Learning: scikit-learn
 
+
 ## Education
 <details>
   <summary>MSc. Ecology and Evolutionary Biology @ University of Toronto</summary>
@@ -17,6 +18,7 @@
   - Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
     
 </details>
+
 
 ## Experience
 Data Scientist @ Pacefactory (August 2021-March 2022)
