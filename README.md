@@ -1,11 +1,4 @@
 # Data Scientist
-- Python, SQL, R, Bash
-- Data visualization: matplotlib, seaborn, plotly
-- Dashboard: Jupyter, Dash, Flask
-- Database: MongoDB, Google BigQuery, SQLite
-- IDE: VSCode, Jupyterlab, Google Colab
-- Machine Learning: scikit-learn
-
 
 ## Education
 <details>
