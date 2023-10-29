@@ -5,6 +5,15 @@
 - IDE: VSCode, Jupyterlab, Google Colab
 - Machine Learning: scikit-learn
 - Database: MongoDB, Google BigQuery, SQLite
+## Education
+<details open>
+  <summary>MSc. Ecology and Evolutionary Biology @ University of Toronto</summary>
+- Optimized wet lab experimental protocols via A/B and multivariate testing
+- Cleaned and transformed relational data for visualization and pattern identification
+- Derived experimental insights using statistical techniques (regression, bootstrap, PCA)
+- Established reproducible data workflows with Bash and Python using Snakemake
+- Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
+</details>
 
 ## Experience
 Data Scientist @ Pacefactory (August 2021-March 2022)
@@ -17,18 +26,10 @@ Teaching Assistant, University of Toronto Mississauga
 - Created a reusable JupyterHub & R FAQ for off-hour student support
 
 <details open>
-  <summary>Quantitative Analyst
+  <summary>Quantitative Analyst</summary>
 - Performed literature research to collect and analyze effect size distribution in evolutionary ecology literature
-  
-## Education
-<details open>
-  <summary>Ecology and Evolutionary Biology, MSc. @ University of Toronto</summary>
-- Optimized wet lab experimental protocols via A/B and multivariate testing
-- Cleaned and transformed relational data for visualization and pattern identification
-- Derived experimental insights using statistical techniques (regression, bootstrap, PCA)
-- Established reproducible data workflows with Bash and Python using Snakemake
-- Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
-</details>
+</details>  
+
 
 ## Certifications
 [IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ6FZXCXQKM3) (October 2023)
