@@ -10,12 +10,14 @@
 ## Education
 <details>
   <summary>MSc. Ecology and Evolutionary Biology @ University of Toronto</summary>
+
   
   - Optimized wet lab experimental protocols via A/B and multivariate testing
   - Cleaned and transformed relational data for visualization and pattern identification
   - Derived experimental insights using statistical techniques (regression, bootstrap, PCA)
   - Established reproducible data workflows with Bash and Python using Snakemake
   - Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
+
     
 </details>
 
@@ -32,17 +34,21 @@ Teaching Assistant, University of Toronto Mississauga (2018-2021)
 
 <details>
   <summary>Quantitative Analyst (2016-2017)</summary>
+
   
   - Performed literature research to collect and analyze effect size distribution in evolutionary ecology literature
-  - 
+
+    
 </details>  
 
 
 ## Projects
 <details>
   <summary>Overview of Bitcoin Ordinals</summary>
+
   
   [Link](https://btc-ordinal-dashboard.onrender.com/) This on-chain analysis offers an overview of the volume and cost associated with Bitcoin Ordinal inscriptions. The fee estimator was created using a multiple linear regression (R<sup>2</sup>=0.96) to predict the inscription cost based on the anticipated size and quantity of ordinals to be minted.
+
   
 </details>  
 
