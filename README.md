@@ -8,11 +8,11 @@
 ## Education
 <details open>
   <summary>MSc. Ecology and Evolutionary Biology @ University of Toronto</summary>
-- Optimized wet lab experimental protocols via A/B and multivariate testing
-- Cleaned and transformed relational data for visualization and pattern identification
-- Derived experimental insights using statistical techniques (regression, bootstrap, PCA)
-- Established reproducible data workflows with Bash and Python using Snakemake
-- Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
+  - Optimized wet lab experimental protocols via A/B and multivariate testing
+  - Cleaned and transformed relational data for visualization and pattern identification
+  - Derived experimental insights using statistical techniques (regression, bootstrap, PCA)
+  - Established reproducible data workflows with Bash and Python using Snakemake
+  - Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
 </details>
 
 ## Experience
