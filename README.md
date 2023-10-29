@@ -28,7 +28,7 @@ Ecology and Evolutionary Biology, MSc. @ University of Toronto
 - Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation
 
 ## Certifications
-[[IBM Data Science October 2023]](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ6FZXCXQKM3)
+[IBM Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ6FZXCXQKM3) (October 2023)
 
 ## Projects
 
