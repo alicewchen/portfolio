@@ -20,7 +20,8 @@
   <li>Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation</li>
   </ul>
 </details>
-<br></br>
+<p></p>
+
 ## Experience
 
 #### Data Scientist @ Pacefactory (August 2021-March 2022)
