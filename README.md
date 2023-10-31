@@ -18,7 +18,7 @@
 ## Experience
 
 #### Data Scientist, Pacefactory (August 2021-March 2022)
-- Developed a Jupyter dashboard for exploratory data analysis of object detection and tracking data; presented data insights that highlighted the key features impacting decision tree model performance.
+- Created an interactive Jupyter dashboard for the exploratory data analysis of object detection and tracking data, uncovering critical insights that influenced the performance of a decision tree model
 - Built a machine learning Flask app to detect and visualize high-traffic zones based live camera data using cluster analysis; the clustering algorithm was deployed to the production environment to assist users during software configuration
   
 #### Teaching Assistant, University of Toronto Mississauga (2018-2021)
@@ -35,8 +35,10 @@ This on-chain analysis offers an overview of the volume and cost associated with
 
 
 ## Certifications
-[**IBM Data Science Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/LZ6FZXCXQKM3) **(October 2023)**
-- Skills: Python, SQL, Machine Learning, Data Mining, Jupyter 
+[**IBM Data Science Professional Certificate**](https://coursera.org/share/ab30d36a1a17efd1ecf68d65aa58f1be) **(October 2023)**
+- Skills: Python, SQL, Machine Learning, Data Mining, Jupyter
+[**Creating Business Value with Data and Looker Specialization**](https://coursera.org/share/80dca214dea9b9b739322f3b23cd10d2) **(October 2023)**
+- Skills: Looker, LookML
 
 
 
