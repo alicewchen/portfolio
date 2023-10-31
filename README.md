@@ -35,8 +35,10 @@ This on-chain analysis offers an overview of the volume and cost associated with
 
 
 ## Certifications
+
 [**IBM Data Science Professional Certificate**](https://coursera.org/share/ab30d36a1a17efd1ecf68d65aa58f1be) **(October 2023)**
 - Skills: Python, SQL, Machine Learning, Data Mining, Jupyter
+
 [**Creating Business Value with Data and Looker Specialization**](https://coursera.org/share/80dca214dea9b9b739322f3b23cd10d2) **(October 2023)**
 - Skills: Looker, LookML
 
