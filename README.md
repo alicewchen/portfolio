@@ -18,8 +18,8 @@
 ## Experience
 
 #### Data Scientist, Pacefactory (August 2021-March 2022)
-- Created an interactive **Jupyter plotly dashboard** for the **exploratory data analysis** of **OpenCV object detection and tracking data**, uncovering patterns that influenced the performance of a **decision tree model**
-- Created a machine learning **Flask app** to detect and visualize high-traffic zones using live object tracking data stored in **MongoDB**; the **clustering algorithm was deployed to the production environment** to assist users during software configuration
+- Created an interactive **Jupyter** dashboard for the **exploratory data analysis** of **OpenCV** object detection and tracking data, uncovering patterns that influenced the performance of a **decision tree model**
+- Created a machine learning **Flask** app to detect and visualize high-traffic zones using live object tracking data stored in **MongoDB**; the **clustering algorithm was deployed to the production environment** to assist users during software configuration
 
   
 #### Teaching Assistant, University of Toronto Mississauga (2018-2021)
