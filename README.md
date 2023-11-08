@@ -7,9 +7,9 @@
   </summary>
   <ul>
   <li>Optimized wet lab experimental protocols via A/B and multivariate testing</li>
-  <li>Cleaned and transformed relational data for visualization and pattern identification</li>
+  <li>**Cleaned and transformed relational data for visualization and pattern identification</li>
   <li>Derived experimental insights using statistical techniques: regression, bootstrap, PCA</li>
-  <li>Established reproducible data workflows with Bash and Python using Snakemake</li>
+  <li>Established reproducible data workflows with **Bash and Python using Snakemake</li>
   <li>Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation</li>
   </ul>
 </details>
@@ -18,12 +18,13 @@
 ## Experience
 
 #### Data Scientist, Pacefactory (August 2021-March 2022)
-- Created an interactive Jupyter dashboard for the exploratory data analysis of object detection and tracking data, uncovering critical insights that influenced the performance of a decision tree model
-- Built a machine learning Flask app to detect and visualize high-traffic zones based live camera data using cluster analysis; the clustering algorithm was deployed to the production environment to assist users during software configuration
+- Created an interactive **Jupyter plotly dashboard** for the **exploratory data analysis** of **OpenCV object detection and tracking data**, uncovering patterns that influenced the performance of a **decision tree model**
+- Created a machine learning **Flask app** to detect and visualize high-traffic zones using live object tracking data stored in **MongoDB**; the **clustering algorithm was deployed to the production environment** to assist users during software configuration
+
   
 #### Teaching Assistant, University of Toronto Mississauga (2018-2021)
-- Instructed undergraduates how to perform data visualization and hypothesis testing using R
-- Provided technical guidance to students learning pandas, numpy, matplotlib, and pattern matching
+- Instructed undergraduates how to perform **data visualization** and **hypothesis testing** using **R**
+- Provided technical guidance to students learning **pandas**, **numpy**, **matplotlib**, and pattern matching
 - Created a reusable JupyterHub & R FAQ for off-hour student support
   
 #### Quantitative Analyst, University of Toronto Mississauga (2016-2017)
