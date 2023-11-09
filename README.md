@@ -7,10 +7,10 @@
   </summary>
   <ul>
   <li>Optimized wet lab experimental protocols via A/B and multivariate testing</li>
-  <li>**Cleaned and transformed relational data for visualization and pattern identification</li>
+  <li>Cleaned and transformed messy gene and protein expression data for exploratory data analysis</li>
   <li>Derived experimental insights using statistical techniques: regression, bootstrap, PCA</li>
   <li>Established reproducible data workflows with **Bash and Python using Snakemake</li>
-  <li>Processed large-scale simulated resamples using CPU parallel processing for population genetics statistics estimation</li>
+  <li>Performed large-scale simulated resamples using a high performance computing cluster to estimate population genetics statistics</li>
   </ul>
 </details>
 <p></p>
@@ -18,13 +18,13 @@
 ## Experience
 
 #### Data Scientist, Pacefactory (August 2021-March 2022)
-- Created an interactive **Jupyter** dashboard for the **exploratory data analysis** of **OpenCV** object detection and tracking data, uncovering patterns that influenced the performance of a **decision tree model**
-- Created a machine learning **Flask** app to detect and visualize high-traffic zones using live object tracking data stored in **MongoDB**; the **clustering algorithm was deployed to the production environment** to assist users during software configuration
+- Created an interactive Jupyter plotly dashboard for the exploratory data analysis of OpenCV object detection and tracking data, uncovering patterns that influenced the performance of a decision tree
+- Created a Flask app that runs on an end-to-end machine learning pipeline using cluster analysis to detect and visualize high-traffic zones from live object tracking data. The pipeline was deployed to the production environment to assist users during software configuration
 
   
 #### Teaching Assistant, University of Toronto Mississauga (2018-2021)
-- Instructed undergraduates how to perform **data visualization** and **hypothesis testing** using **R**
-- Provided technical guidance to students learning **pandas**, **numpy**, **matplotlib**, and pattern matching
+- Instructed undergraduates how to perform data visualization and hypothesis testing using R
+- Provided technical guidance to students learning pandas, numpy, matplotlib, and pattern matching
 - Created a reusable JupyterHub & R FAQ for off-hour student support
   
 #### Quantitative Analyst, University of Toronto Mississauga (2016-2017)
@@ -32,7 +32,9 @@
 
 ## Projects
 #### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
-This on-chain analysis offers an overview of the volume and cost associated with Bitcoin Ordinal inscriptions. The fee estimator was created using [multiple linear regression (R<sup>2</sup>=0.96)](https://github.com/alicewchen/dashboard/blob/main/notebooks/linear_model.ipynb) to predict the inscription cost based on the anticipated size and quantity of ordinals to be minted.
+- Performed SQL queries to retrieve data from an on-chain data provider
+- Created and deployed a Flask app to visualize the historical volume and cost associated with Bitcoin Ordinal inscriptions, uncovering notable events based on abnormal time series patterns.
+- Developed a fee estimator using multiple linear regression (R2=0.96) to predict the inscription cost
 
 
 ## Certifications
