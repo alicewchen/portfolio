@@ -2,7 +2,7 @@
 
 ## Experience
 
-#### Data Scientist, Pacefactory (August 2021-March 2022)
+#### Data Scientist, Pacefactory (2021-2022)
 - Created an interactive Jupyter plotly dashboard for the exploratory data analysis of OpenCV object detection and tracking data, uncovering patterns that influenced the performance of a decision tree
 - Created a Flask app that runs on an end-to-end machine learning pipeline using cluster analysis to detect and visualize high-traffic zones from live object tracking data. The pipeline was deployed to the production environment to assist users during software configuration
   
@@ -35,7 +35,6 @@
 - Created and deployed a Flask app to visualize the historical volume and cost associated with Bitcoin Ordinal inscriptions, uncovering notable events based on abnormal time series patterns.
 - Developed a fee estimator using multiple linear regression (R2=0.96) to predict the inscription cost
 
-
 ## Certifications
 
 [**IBM Data Science Professional Certificate**](https://coursera.org/share/ab30d36a1a17efd1ecf68d65aa58f1be) **(October 2023)**
@@ -43,6 +42,16 @@
 
 [**Creating Business Value with Data and Looker Specialization**](https://coursera.org/share/80dca214dea9b9b739322f3b23cd10d2) **(October 2023)**
 - Skills: Looker, LookML
+
+## Volunteer Experience
+Committee Member, UTM Science Career Committee (2020-2021)
+- Collaborated with a team of five graduate students to organize three career panels for Biology graduate students that would help bridge career opportunities in the industry after graduation.
+Social Coordinator, Biology Graduate Student Society (2019-2020)
+- Spearheaded a monthly social program with the support of other committee members to provide consistent networking opportunities for graduate students.
+Diversity Officer, Biology Graduate Student Society (2020-2021)
+Research Volunteer, University of Toronto Mississauga (2017-2018)
+Training Corporal, Erindale College Special Response Team (ON-D1175) (2016)
+Medical First Responder, Erindale College Special Response Team (ON-D1175) (2014-2016)
 
 
 
