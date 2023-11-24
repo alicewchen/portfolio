@@ -23,12 +23,14 @@
 
   
 #### Teaching Assistant, University of Toronto Mississauga (2018-2021)
-- Instructed undergraduates how to perform data visualization and hypothesis testing using R
-- Provided technical guidance to students learning pandas, numpy, matplotlib, and pattern matching
-- Created a reusable JupyterHub & R FAQ for off-hour student support
+- Relevant courses taught: Biostatistics I, Bioinformatics
+- Instructed undergraduates on how to create data visualizations and perform statistical testing using R.
+- Provided technical guidance to students learning pandas, numpy, matplotlib, and pattern matching.
+- Created an online FAQ of Python, R, and statistical knowledge to provide off-hour student support.
   
 #### Quantitative Analyst, University of Toronto Mississauga (2016-2017)
-- Performed literature research to collect and analyze effect size distribution in evolutionary ecology literature
+- Created data visualizations of effect size distribution in ecology literature using R.
+- Delivered weekly updates to the supervisor to explain Excel database schema design, code structure, and analysis results.
 
 ## Projects
 #### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
