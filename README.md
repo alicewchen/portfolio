@@ -1,20 +1,10 @@
 # Data Scientist
 
-## Education
-
-#### MSc. Ecology and Evolutionary Biology @ University of Toronto
-- Cleaned and transformed messy gene and protein expression data using Python for exploratory data analysis.
-- Derived experimental insights using statistical and ML techniques with Python & R: regression, bootstrap, PCA.
-- Created data visualizations and reports to storytell actionable experimental insights and communicate foreseeable risks and challenges.
-- Developed reproducible data workflows with Bash and Python using Snakemake.
-- Performed large-scale simulated resamples using a high performance computing cluster to estimate population genetics statistics.
-
 ## Experience
 
 #### Data Scientist, Pacefactory (August 2021-March 2022)
 - Created an interactive Jupyter plotly dashboard for the exploratory data analysis of OpenCV object detection and tracking data, uncovering patterns that influenced the performance of a decision tree
 - Created a Flask app that runs on an end-to-end machine learning pipeline using cluster analysis to detect and visualize high-traffic zones from live object tracking data. The pipeline was deployed to the production environment to assist users during software configuration
-
   
 #### Teaching Assistant, University of Toronto Mississauga (2018-2021)
 - Relevant courses taught: Biostatistics I, Bioinformatics
@@ -25,6 +15,19 @@
 #### Quantitative Analyst, University of Toronto Mississauga (2016-2017)
 - Created data visualizations of effect size distribution in ecology literature using R.
 - Delivered weekly updates to the supervisor to explain Excel database schema design, code structure, and analysis results.
+
+## Education
+
+#### MSc. Ecology and Evolutionary Biology @ University of Toronto
+- Cleaned and transformed messy gene and protein expression data using Python for exploratory data analysis.
+- Derived experimental insights using statistical and ML techniques with Python & R: regression, bootstrap, PCA.
+- Created data visualizations and reports to storytell actionable experimental insights and communicate foreseeable risks and challenges.
+- Developed reproducible data workflows with Bash and Python using Snakemake.
+- Performed large-scale simulated resamples using a high performance computing cluster to estimate population genetics statistics.
+
+#### H.B.Sc. Biology Specialist, University of Toronto Mississauga
+- Publication: Anstett, D.N., Chen, W. & Johnson, M.T.J. Latitudinal Gradients in Induced and Constitutive Resistance against Herbivores. *J Chem Ecol* **42**, 772–781 (2016)
+- Relevant coursework: Biostatistics I & II (descriptive statistics, hypothesis testing, Chi-Square test, Bayesian methods), Bioinformatics, Genomics
 
 ## Projects
 #### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
