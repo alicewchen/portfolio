@@ -44,19 +44,19 @@
 - Skills: Looker, LookML
 
 ## Volunteer Experience
-#### Committee Member, UTM Science Career Committee (2020-2021)
+**Committee Member**, UTM Science Career Committee (2020-2021)
 - Collaborated with a team of five graduate students to organize three career panels for Biology graduate students that would help bridge career opportunities in the industry after graduation.
   
-#### Social Coordinator, Biology Graduate Student Society (2019-2020)
+**Social Coordinator**, Biology Graduate Student Society (2019-2020)
 - Spearheaded a monthly social program with the support of other committee members to provide consistent networking opportunities for graduate students.
   
-#### Diversity Officer, Biology Graduate Student Society (2020-2021)
+**Diversity Officer**, Biology Graduate Student Society (2020-2021)
 
-#### Research Volunteer, University of Toronto Mississauga (2017-2018)
+**Research Volunteer**, University of Toronto Mississauga (2017-2018)
 
-#### Training Corporal, Erindale College Special Response Team (ON-D1175) (2016)
+**Training Corporal**, Erindale College Special Response Team (ON-D1175) (2016)
 
-#### Medical First Responder, Erindale College Special Response Team (ON-D1175) (2014-2016)
+**Medical First Responder**, Erindale College Special Response Team (ON-D1175) (2014-2016)
 
 
 
