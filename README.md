@@ -1,5 +1,11 @@
 # Data Scientist
 
+## Projects
+#### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
+- Performed SQL queries to retrieve data from an on-chain data provider
+- Created and deployed a Flask app to visualize the historical volume and cost associated with Bitcoin Ordinal inscriptions, uncovering notable events based on abnormal time series patterns.
+- Developed a fee estimator using multiple linear regression (R2=0.96) to predict the inscription cost
+
 ## Experience
 
 #### Data Scientist, Pacefactory (2021-2022)
@@ -28,12 +34,6 @@
 #### H.B.Sc. Biology Specialist, University of Toronto Mississauga
 - Publication: Anstett, D.N., Chen, W. & Johnson, M.T.J. Latitudinal Gradients in Induced and Constitutive Resistance against Herbivores. *J Chem Ecol* **42**, 772–781 (2016)
 - Relevant coursework: Biostatistics I & II (descriptive statistics, hypothesis testing, Chi-Square test, Bayesian methods), Bioinformatics, Genomics
-
-## Projects
-#### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
-- Performed SQL queries to retrieve data from an on-chain data provider
-- Created and deployed a Flask app to visualize the historical volume and cost associated with Bitcoin Ordinal inscriptions, uncovering notable events based on abnormal time series patterns.
-- Developed a fee estimator using multiple linear regression (R2=0.96) to predict the inscription cost
 
 ## Certifications
 
