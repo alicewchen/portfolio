@@ -1,19 +1,13 @@
 # Data Scientist
 
 ## Education
-<details>
-  <summary>
-    MSc. Ecology and Evolutionary Biology @ University of Toronto
-  </summary>
-  <ul>
-  <li>Optimized wet lab experimental protocols via A/B and multivariate testing</li>
-  <li>Cleaned and transformed messy gene and protein expression data for exploratory data analysis</li>
-  <li>Derived experimental insights using statistical techniques: regression, bootstrap, PCA</li>
-  <li>Established reproducible data workflows with **Bash and Python using Snakemake</li>
-  <li>Performed large-scale simulated resamples using a high performance computing cluster to estimate population genetics statistics</li>
-  </ul>
-</details>
-<p></p>
+
+#### MSc. Ecology and Evolutionary Biology @ University of Toronto
+- Cleaned and transformed messy gene and protein expression data using Python for exploratory data analysis.
+- Derived experimental insights using statistical and ML techniques with Python & R: regression, bootstrap, PCA.
+- Created data visualizations and reports to storytell actionable experimental insights and communicate foreseeable risks and challenges.
+- Developed reproducible data workflows with Bash and Python using Snakemake.
+- Performed large-scale simulated resamples using a high performance computing cluster to estimate population genetics statistics.
 
 ## Experience
 
