@@ -3,7 +3,7 @@
 ## Projects
 #### [Case Study: Strategizing a Kickstarter Campaign](https://github.com/alicewchen/kickstarter-case-study)
 - Performed API requests to collect historical currency exchange rates.
-- Produced a case study report to recommend a strategy to launch a Kickstarter campaign based on historical Kickstarter campaign data.
+- Produced a case study report that recommends a strategy to launch a Kickstarter campaign based on historical Kickstarter campaign data.
   
 #### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
 - Performed SQL queries to retrieve data from an on-chain data provider
