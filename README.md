@@ -1,7 +1,7 @@
 # Data Scientist
 
 ## Projects
-#### [Case Study: Strategizing a Kickstarter Campaign](https://github.com/alicewchen/kickstarter-case-study)[(report)](https://github.com/alicewchen/kickstarter-case-study/blob/main/report/report.md)
+#### [Case Study: Strategizing a Kickstarter Campaign](https://github.com/alicewchen/kickstarter-case-study) [(report)](https://github.com/alicewchen/kickstarter-case-study/blob/main/report/report.md)
 - Performed API requests to collect historical currency exchange rates.
 - Created local SQL database and performed complex SQL queries to analyze historical Kickstarter campaign data.
   
