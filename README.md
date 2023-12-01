@@ -1,9 +1,9 @@
 # Data Scientist
 
 ## Projects
-#### [Case Study: Strategizing a Kickstarter Campaign](https://github.com/alicewchen/kickstarter-case-study)
+#### [Case Study: Strategizing a Kickstarter Campaign](https://github.com/alicewchen/kickstarter-case-study)[(report)](https://github.com/alicewchen/kickstarter-case-study/blob/main/report/report.md)
 - Performed API requests to collect historical currency exchange rates.
-- Produced a case study report that recommends a strategy to launch a Kickstarter campaign based on historical Kickstarter campaign data.
+- Created local SQL database and performed complex SQL queries to analyze historical Kickstarter campaign data.
   
 #### [Overview of Bitcoin Ordinals](https://btc-ordinal-dashboard.onrender.com/)
 - Performed SQL queries to retrieve data from an on-chain data provider
